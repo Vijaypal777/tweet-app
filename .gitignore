@@ -1,0 +1,6 @@
+.venv/
+
+# Django
+db.sqlite3               # SQLite database file
+/staticfiles/            # Collected static files
+/media/
